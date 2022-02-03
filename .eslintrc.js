@@ -22,8 +22,8 @@ module.exports = {
   'rules': {
     'indent': ['error', 2],
     'space-before-function-paren': ['error', 'never'],
-    'no-prototype-builtins': ['never'],
-    'no-useless-escape': ['never'],
+    'no-prototype-builtins': 'off',
+    'no-useless-escape': 'off',
     'brace-style': ['error', '1tbs'],
     'object-curly-spacing': ['error', 'always', { 'objectsInObjects': false }],
     'max-len': ['error', { 'code': 180, 'ignoreUrls': true }],
