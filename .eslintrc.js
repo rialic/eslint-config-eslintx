@@ -29,7 +29,6 @@ module.exports = {
     'max-len': ['error', { 'code': 180, 'ignoreUrls': true }],
     'eol-last': ['error', 'never'],
     'arrow-spacing': ['error', { 'before': true, 'after': true }],
-    'linebreak-style': ['error', 'windows'],
     'quotes': ['error', 'single'],
     'semi': ['error', 'never']
   }
