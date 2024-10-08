@@ -20,7 +20,7 @@ module.exports = {
     }
   },
   'rules': {
-    'indent': ['error', 2],
+    'indent': ['error', 4],
     'space-before-function-paren': ['error', 'never'],
     'no-prototype-builtins': 'off',
     'no-useless-escape': 'off',

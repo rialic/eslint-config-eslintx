@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-eslintx",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "main": "index.js",
   "packageManager": "yarn@3.5.0",
   "scripts": {
